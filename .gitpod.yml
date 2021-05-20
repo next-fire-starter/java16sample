@@ -3,3 +3,7 @@ image:
 
 tasks:
   - command: export TZ="Asia/Tokyo"
+vscode:
+  extensions:
+    - vscode.java@1.56.2:38645558b1874ca8cf8c0776d2e89d60
+    - redhat.java@0.79.2:57d309e64c28b522bcf1482a143fbefc
